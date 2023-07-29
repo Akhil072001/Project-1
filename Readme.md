@@ -1,5 +1,4 @@
-# HACK.ME Project to join MS-TEAMS meetings automatically
-
+# AutomateLogin: Streamlining User Access and Routine Authentication
 ## Setup
 
 1. Download the webdriver for your browser of choice.

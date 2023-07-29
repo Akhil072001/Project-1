@@ -28,9 +28,11 @@ driver = webdriver.Chrome('./chromedriver.exe', options=opt)
 URL = "https://teams.microsoft.com"
 
 # MS TEAMS Credentials
+mail = input('Enter your mail: ')
+pwd = input('Enter your password: ')
 CREDS = {
-    'email': 'amanequalskul@outlook.com',
-    'passwd': 'st.josephstobsf'
+    'email': mail,
+    'passwd': pwd
 }
 
 

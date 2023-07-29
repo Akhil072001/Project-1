@@ -1,3 +1,9 @@
+.gitignore
+.project
+.pydevproject
+.pydedevproject.bak
+__init__.py
+geckodriver.log
 cheemsenv/
 __pycache__/
 .vscode/
